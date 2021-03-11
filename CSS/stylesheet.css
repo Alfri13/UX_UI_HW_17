@@ -1,4 +1,31 @@
 .inline-block {display: inline-block;
-    list-style-type: none;
     vertical-align: top;
 color: blue;}
+
+.logo{ width: 23%;
+padding: 1%;
+text-align: center;
+background-color: hotpink;}
+
+Nav {width: 73%;
+padding: 1%;
+background-color: indianred;}
+
+ul {width: 50%;
+margin-left: auto;}
+
+.heroImg{ 
+    background-color: grey;
+    height:600px;
+    padding:25%;}
+    
+button, p, h1{width: 500px;
+margin:0 auto;}
+
+footer {background-color: #373738;
+padding: }
+
+.uf{display: inline-block;
+vertical-align: top;
+color:white;
+padding:auto; }
