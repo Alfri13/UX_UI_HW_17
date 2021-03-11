@@ -1,26 +1,4 @@
-<<<<<<< HEAD
-    display: inline-block;
+.inline-block {display: inline-block;
+    list-style-type: none;
     vertical-align: top;
-    color: blue;
-=======
-.inline-block{
-    display: inline-block;
-    vertical-align: top;
->>>>>>> parent of 2e85097 (Picture Update)
-}
-.logo{
-   width: 273px;
-   padding: 1%; 
-}
-nav {
-    width: 73%;
-    padding: 1%;
-}
-.navigation { 
-    width: 5%;
-    margin-left: auto;
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> parent of 2e85097 (Picture Update)
+color: blue;}
