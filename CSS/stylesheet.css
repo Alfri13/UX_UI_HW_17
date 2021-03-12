@@ -1,15 +1,13 @@
 .inline-block {display: inline-block;
     vertical-align: top;
-color: blue;}
+color: black}
 
 .logo{ width: 23%;
 padding: 1%;
-text-align: center;
-background-color: hotpink;}
+text-align: center}
 
 Nav {width: 73%;
-padding: 1%;
-background-color: indianred;}
+padding: 1%;}
 
 ul {width: 50%;
 margin-left: auto;}
