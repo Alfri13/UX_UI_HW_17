@@ -19,13 +19,13 @@ margin-left: auto;}
     height:600px;
     padding:25%;}
     
-button, p, h1{width: 500px;
-margin:0 auto;}
+h1, p {text-align: center;}
+
+.button {align-items: center;}
 
 footer {background-color: #373738;
-padding: }
+padding: 0px, 5px;}
 
 .uf{display: inline-block;
 vertical-align: top;
-color:white;
-padding:auto; }
+color:white;}
